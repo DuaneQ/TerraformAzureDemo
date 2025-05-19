@@ -107,5 +107,6 @@ terraform destroy
 - [Azure Portal](https://portal.azure.com)
 - [Azure CLI Documentation](https://learn.microsoft.com/en-us/cli/azure/)
 - [Cloud-init Documentation](https://cloud-init.io/)
+- [Learn Terraform with Azure by Building a Dev Environment](https://www.youtube.com/watch?v=V53AHWun17s)
 
 ---
